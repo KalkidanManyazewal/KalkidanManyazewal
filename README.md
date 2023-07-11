@@ -1,4 +1,4 @@
-  ✿ ❀ ✿  Hello, Kal here! ❀✿ ❀
+  ✿ ❀ ✿  Hello ❀✿ ❀
   I’m a self-taught newbie coder, currently learning python 🐍 and java script
   you can reach me @ kalkidanmanyazewal@gmail.com
 
